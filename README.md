@@ -6,7 +6,7 @@ The application architecture uses [AWS Lambda][lambda], [Amazon API Gateway][api
 
 See the diagram below for a depiction of the complete architecture.
 
-https://github.com/kmvinoth/aws-serverless-workshops/blob/master/WebApplication/images/wildrydes-complete-architecture.png
+![Wild Rydes Web Application Architecture](images/wildrydes-complete-architecture.png)
 
 ### Modules
 
